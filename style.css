@@ -1,1 +1,21 @@
+img {
+  width: 300px;
+  height: 400px;
+  border-radius: 100%;
+}
+body {
+  text-align: center;
+  background-color: #c78b4c;
+}
+h1 {
+  font-family: "BBH Sans Bartle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+p {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 
